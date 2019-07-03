@@ -76,7 +76,7 @@ menus:
 # Navigation. main menu list
 navs:
 
-- href: /blog/
+- href: /
     label: Home
 
   -
