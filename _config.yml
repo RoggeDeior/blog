@@ -57,17 +57,17 @@ paginate_path: 'page:num'
 menus:
 
   -
-    href: /life.html
+    href: /blog/life.html
     label: 故事
     target: _self
 
   -
-    href: /arch.html
+    href: /blog/arch.html
     label: 架构
     target: _self
 
   -
-    href: /link.html
+    href: /blog/link.html
     label: 友链
     target: _self
 
@@ -76,11 +76,12 @@ menus:
 # Navigation. main menu list
 navs:
 
-- href: /
+  -
+    href: /blog/
     label: Home
 
   -
-    href: /spring-boot.html
+    href: /blog/spring-boot.html
     label: Spring Boot
     target: _self
 #    subnav:
@@ -94,21 +95,21 @@ navs:
 #        subLabel: Spring Cloud
 
   -
-    href: /spring-cloud.html
+    href: /blog/spring-cloud.html
     label: Spring Cloud
     target: _self
 
-  - href: /java.html
+  - href: /blog/java.html
     label: Java
     target: _blank
 
   -
-    href: /archives.html
+    href: /blog/archives.html
     label: Archives
     target: _self
 
   -
-    href: /about.html
+    href: /blog/about.html
     label: About
     target: _self
 
@@ -117,17 +118,17 @@ navs:
 labels:
 
   -
-    href: /docker.html
+    href: /blog/docker.html
     label: Docker
     target: _blank
 
   -
-    href: /open-source.html
+    href: /blog/open-source.html
     label: Code
     target: _blank
 
   -
-    href: /it.html
+    href: /blog/it.html
     label: IT
     target: _blank
 
@@ -137,17 +138,17 @@ labels:
 classes:
 
   -
-    href: /life.html
+    href: /blog/life.html
     name: 我的故事
     describe: 生活就是故事，故事就是生活
 
   -
-    href: /arch.html
+    href: /blog/arch.html
     name: 架构师之路
     describe: 一个架构师的自我修养
 
   -
-    href: /java.html
+    href: /blog/java.html
     name: Java 系列文章
     describe: Java 之根基，Java 程序员必学
 
