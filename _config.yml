@@ -118,21 +118,6 @@ navs:
 labels:
 
   -
-    href: /payment.html
-    label: 支付
-    target: _self
-
-  -
-    href: /fastdfs.html
-    label: FastDFS
-    target: _blank
-
-  -
-    href: /mongodb.html
-    label: MongoDB
-    target: _blank
-
-  -
     href: /docker.html
     label: Docker
     target: _blank
@@ -147,10 +132,6 @@ labels:
     label: IT
     target: _blank
 
-  -
-    href: /python.html
-    label: Python
-    target: _blank
 
 
 # selected articles
